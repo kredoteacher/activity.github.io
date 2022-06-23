@@ -478,7 +478,7 @@ p{
             .section1{
             position:relative;
             width: 105%;
-            height: 600px;
+            height: 100%;
             left: 10px;
             top:-2em;
             /* margin:2px; */
