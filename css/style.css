@@ -116,14 +116,14 @@ p{
      }
 
      .banner{
-        
-        background-color: greenyellow;
+        background-image: url(../image/pic1.jpg);
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
         position:relative;
         width: 100%;
         height: 670px;
+       
     }
     
     
@@ -193,16 +193,7 @@ p{
 
     }
 
-    .image{
-        position: relative;
-        background-size: cover;
-        /* border:2px solid red; */
-        
-        top: auto;
-        right:10%;
-        left:5%;
-        width: 100%;
-        height:500px;
+    
         
     }
 
