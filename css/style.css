@@ -208,7 +208,7 @@ p{
 
     .text2{
      position:ralative;
-     top: -5em;
+     top: -3em;
      color: black;
      text-align: center;
     
@@ -216,6 +216,8 @@ p{
     }
 
     .text3{
+        position: relative;
+        top:-3em;
 
         color:black;
         text-align: center;
