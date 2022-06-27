@@ -255,7 +255,7 @@ p{
         bottom: -10px;
         /* right: 40px; */
         left:60em;
-        border: 2px solid red;
+/*         border: 2px solid red; */
         height: 150px;
         width: 150px;
        
@@ -279,7 +279,7 @@ p{
        }
 
        #text4{
-        border: 2px solid gray;
+/*         border: 2px solid gray; */
         height: 2cm;
         width: 2cm;
         margin: 0px 0px;
@@ -390,7 +390,7 @@ p{
             width: 150px;
             height:150px;
             margin-left: 20em;
-            border:1px solid black;
+/*             border:1px solid black; */
             /* opacity: -1; */
             color:blueviolet;
             text-align: bottom;
