@@ -207,7 +207,8 @@ p{
     }
 
     .text2{
-
+     position:ralative;
+     bottom: -10em;
      color: black;
      text-align: center;
     
@@ -239,7 +240,7 @@ p{
     position: relative;
     left: 10em;
     bottom:-10px;
-    border: 2px solid green;
+/*     border: 2px solid green; */
      height: 150px;
      width: 150px;
     
@@ -271,7 +272,7 @@ p{
         position: relative;
         bottom: -10px;
         left: 30em;
-        border: 2px solid blueviolet;
+/*         border: 2px solid blueviolet; */
         height: 150px;
         width: 150px;
         
