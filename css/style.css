@@ -199,7 +199,7 @@ p{
 
     .text2{
      position:relative;
-     top: -2em;
+/*      top: -2em; */
      color: black;
      text-align: center;
     
@@ -266,8 +266,8 @@ p{
         bottom: -10px;
         left: 60em;
 /*         border: 2px solid blueviolet; */
-        height: 250px;
-        width: 250px;
+        height: 350px;
+        width: 350px;
         
    
        }
