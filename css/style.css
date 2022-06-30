@@ -266,8 +266,8 @@ p{
        .image3{
         position: relative;
         bottom: -10px;
-        left: 60em;
-        border: 2px solid blueviolet;
+        left: 40em;
+/*         border: 2px solid blueviolet; */
         height: 350px;
         width: 350px;
         
