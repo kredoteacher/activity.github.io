@@ -6,7 +6,7 @@
     outline:none;
     border:none;
     /* background-color: black; */
-/*     overflow-x:hidden; */
+    overflow-x:hidden;
     
 
 }
@@ -547,7 +547,7 @@ p{
             }
             .form{
                 position: relative;
-                top: -10em;
+                top: -30em;
                 background-color: greenyellow;
                 width:110%;
                 height: 180%;
