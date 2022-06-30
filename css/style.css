@@ -236,7 +236,7 @@ p{
     position: relative;
     left: 10em;
     bottom:-10px;
-    border: 2px solid green;
+/*     border: 2px solid green; */
      height: 350px;
      width: 350px;
   
@@ -251,7 +251,7 @@ p{
         bottom: -10px;
         /* right: 40px; */
         left:40em;
-        border: 2px solid red;
+/*         border: 2px solid red; */
         height: 350px;
         width: 350px;
        
@@ -268,8 +268,8 @@ p{
         bottom: -10px;
         left: 60em;
         border: 2px solid blueviolet;
-        height: 150px;
-        width: 150px;
+        height: 350px;
+        width: 350px;
         
    
        }
