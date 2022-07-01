@@ -312,15 +312,13 @@ p{
         
         background-color: lightskyblue;
         
-        /* background-size: cover; */
+        
         background-position: center;
         position:relative;
         width: 100%;
         
-        top: 9em;
-        margin: -1em;
-        right: 2em;
-        /* border:2px solid red; */
+        top: 4em;
+        
        }
 
        .text5{
@@ -480,9 +478,7 @@ p{
             /* top:-30em; */
    
             bottom:-20em;
-            /* margin:2px; */
-            background-color: white;
-            /* border: 2px solid red; */
+            
 
                   
             }
