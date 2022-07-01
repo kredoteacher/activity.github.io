@@ -449,14 +449,12 @@ p{
                 margin-left: 5px;
             }
             .example{
-            /* border: 2px solid red; */
+            
             position: relative;
-            top:-15em;
-            /* bottom: -5em; */
-            right: -30m;
-            /* width: 10%; */
-            /* height: 10%; */
-            /* border: 2px solid red; */
+            top:-10em;
+            
+            right: -15m;
+           
             text-align: center;
             font-family: sans-serif;
             font-size: larger;
